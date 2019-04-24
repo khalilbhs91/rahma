@@ -1,0 +1,45 @@
+body{
+    text-align:center;
+    background-image: url('photo-1516979187457-637abb4f9353.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;    	
+
+}
+input , textarea , .input-group , .form-control {
+    border: 3px solid rgb(199, 199, 168);
+    background-color: rgb(199, 199, 168);
+    text-align:center;
+    width : 22%;
+    height : 30px;
+
+  }
+
+label , .input-group , .form-control { 
+    display: flex ;
+    justify-content: center;
+    margin-right: 120px;
+    font-size: 20px;
+    color: rgb(136, 51, 115);
+    font-style: oblique	;
+    font-weight: 500	;
+
+
+}
+.form-group{
+margin-left: 483px;
+margin-top: 30px;
+margin-bottom: 40px;
+font-weight: 500	;
+
+}
+#test{
+    color: rgb(136, 51, 115);
+    font-size : 20px;
+  
+}
+.Specialite{
+    margin-right: 600px;
+}
+  
+ 
